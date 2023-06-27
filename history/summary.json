@@ -4,12 +4,12 @@
     "url": "http://www.skingenes.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.skingenes.net.ico",
     "slug": "skingenes",
-    "status": "up",
-    "uptime": "94.10%",
-    "uptimeDay": "94.10%",
-    "uptimeWeek": "94.10%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "94.10%",
+    "status": "down",
+    "uptime": "95.79%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "95.79%",
+    "uptimeMonth": "95.79%",
+    "uptimeYear": "95.79%",
     "time": 391,
     "timeDay": 391,
     "timeWeek": 391,
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 703
+      "2023-06-27": 985
     }
   },
   {
