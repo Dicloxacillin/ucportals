@@ -4,18 +4,20 @@
     "url": "http://www.skingenes.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.skingenes.net.ico",
     "slug": "skingenes",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 412,
     "timeDay": 412,
     "timeWeek": 412,
     "timeMonth": 412,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-27": 0
+    }
   },
   {
     "name": "U54 Data Portal",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ucightf1.biochem.uci.edu.ico",
     "slug": "u54-data-portal",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 95
+      "2023-06-27": 661
     }
   },
   {
