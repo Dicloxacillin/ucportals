@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://brand.uci.edu/master-branding/primary-logos/_img/UCI_primarylogo_printblue.png
   name: Upptime
   introTitle: "Welcome to the UCI Genomics Research and Technology Hub server status site."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: If you have any questions or concerns about the status of the server, please contact Ivan Chang at iychang@uci.edu. 
   navbar:
     - title: Status
       href: /
