@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skingenes.net.ico",
     "slug": "skingenes",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.50%",
-    "time": 374,
-    "timeDay": 233,
-    "timeWeek": 374,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
+    "time": 375,
+    "timeDay": 385,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2023-06-27": 41
     }
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-29": 180,
+      "2023-06-30": 176,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1141
     }
@@ -52,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 93,
-    "timeWeek": 108,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "time": 103,
+    "timeDay": 73,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {}
   },
   {
