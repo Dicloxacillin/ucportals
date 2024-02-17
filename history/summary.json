@@ -4,7 +4,7 @@
     "url": "http://www.skingenes.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.skingenes.net.ico",
     "slug": "skingenes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 363,
     "timeYear": 403,
     "dailyMinutesDown": {
+      "2024-02-17": 0,
       "2024-01-20": 23,
       "2023-08-12": 18,
       "2023-06-30": 43,
@@ -39,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-17": 24,
+      "2024-02-17": 432,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
